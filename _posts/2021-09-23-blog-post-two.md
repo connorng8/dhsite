@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blog Post 1"
-date: YYYY-MM-DD time
+date: 2021-09-24 15:47:18 -0400
 categories: blog post
 ---
  
